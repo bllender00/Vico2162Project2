@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Lemonada', cursive;
+    text-align: center;
+    color: crimson;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+}
+
+.row {
+    justify-content: center;
+}
